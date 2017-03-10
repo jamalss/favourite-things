@@ -1,0 +1,49 @@
+h1 {
+  color: blue;
+  text-align: center;
+  font-style: normal;
+  font-weight: bolder;;
+  font-family: serif;
+  font-size: 40px;
+  line-height: 25px;
+}
+
+h3 {
+  color: lightblue;
+  text-align: left;
+  font-style: oblique;
+  font-weight: bold;
+  font-family: serif;
+  font-size: 30px;
+  line-height: 20px;
+}
+
+p {
+  color: green;
+  text-align: left;
+  font-style: normal;
+  font-weight: normal;
+  font-family: serif;
+  font-size: normal;
+  line-height: normal;
+}
+
+ol {
+  color: grey;
+  text-align: left;
+  font-style: normal;
+  font-weight: normal;
+  font-family: serif;
+  font-size: normal;
+  line-height: 40px;
+}
+
+p5 {
+  color: inherit;
+  text-align: right;
+  font-style: normal;
+  font-weight: lighter;;
+  font-family: monospace;
+  font-size: small;
+  line-height: normal;
+}
