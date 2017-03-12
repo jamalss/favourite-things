@@ -67,3 +67,13 @@ ol {
   font-size: 25px;
   line-height: 30px;
 }
+
+.line {
+  word-spacing: 10px;
+  letter-spacing: 10px;
+}
+
+.space {
+  word-spacing: 10px;
+  letter-spacing: 10px;
+}

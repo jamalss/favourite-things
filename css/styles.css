@@ -57,3 +57,12 @@ ol {
   font-size: 20px;
   line-height: 25px;
 }
+
+.space {
+  word-spacing: 10px;
+}
+
+.line {
+  letter-spacing: 10px;
+  word-spacing: 10px;
+}
